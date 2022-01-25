@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Posts from "./components/Posts";
-import Searchbar from "./components/Searchbar";
+
+
 
 
 function App() {
